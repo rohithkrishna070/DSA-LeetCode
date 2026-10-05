@@ -21,3 +21,15 @@ Collection of my solved Data Structures and Algorithms problems on [LeetCode](ht
 Each problem folder contains:
 - `README.md`: Problem description, constraints, and difficulty.
 - Solution file: Clean, accepted implementation.
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0001-two-sum](https://github.com/rohithkrishna070/DSA-LeetCode/tree/main/0001-two-sum/) | Easy |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0001-two-sum](https://github.com/rohithkrishna070/DSA-LeetCode/tree/main/0001-two-sum/) | Easy |
+<!---LeetCode Topics End-->
