@@ -32,4 +32,12 @@ Each problem folder contains:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/rohithkrishna070/DSA-LeetCode/tree/main/0001-two-sum/) | Easy |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0061-rotate-list](https://github.com/rohithkrishna070/DSA-LeetCode/tree/main/0061-rotate-list/) | Medium |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0061-rotate-list](https://github.com/rohithkrishna070/DSA-LeetCode/tree/main/0061-rotate-list/) | Medium |
 <!---LeetCode Topics End-->
