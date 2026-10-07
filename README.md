@@ -40,4 +40,20 @@ Each problem folder contains:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0061-rotate-list](https://github.com/rohithkrishna070/DSA-LeetCode/tree/main/0061-rotate-list/) | Medium |
+## Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0101-symmetric-tree](https://github.com/rohithkrishna070/DSA-LeetCode/tree/main/0101-symmetric-tree/) | Easy |
+## Depth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0101-symmetric-tree](https://github.com/rohithkrishna070/DSA-LeetCode/tree/main/0101-symmetric-tree/) | Easy |
+## Breadth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0101-symmetric-tree](https://github.com/rohithkrishna070/DSA-LeetCode/tree/main/0101-symmetric-tree/) | Easy |
+## Binary Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0101-symmetric-tree](https://github.com/rohithkrishna070/DSA-LeetCode/tree/main/0101-symmetric-tree/) | Easy |
 <!---LeetCode Topics End-->
