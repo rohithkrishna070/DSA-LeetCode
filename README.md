@@ -36,6 +36,7 @@ Each problem folder contains:
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/rohithkrishna070/DSA-LeetCode/tree/main/0002-add-two-numbers/) | Medium |
 | [0061-rotate-list](https://github.com/rohithkrishna070/DSA-LeetCode/tree/main/0061-rotate-list/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -73,4 +74,12 @@ Each problem folder contains:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1004-max-consecutive-ones-iii](https://github.com/rohithkrishna070/DSA-LeetCode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0002-add-two-numbers](https://github.com/rohithkrishna070/DSA-LeetCode/tree/main/0002-add-two-numbers/) | Medium |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0002-add-two-numbers](https://github.com/rohithkrishna070/DSA-LeetCode/tree/main/0002-add-two-numbers/) | Medium |
 <!---LeetCode Topics End-->
