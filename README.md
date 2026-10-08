@@ -28,6 +28,7 @@ Each problem folder contains:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/rohithkrishna070/DSA-LeetCode/tree/main/0001-two-sum/) | Easy |
+| [1004-max-consecutive-ones-iii](https://github.com/rohithkrishna070/DSA-LeetCode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -60,4 +61,16 @@ Each problem folder contains:
 | ------- | ------- |
 | [0100-same-tree](https://github.com/rohithkrishna070/DSA-LeetCode/tree/main/0100-same-tree/) | Easy |
 | [0101-symmetric-tree](https://github.com/rohithkrishna070/DSA-LeetCode/tree/main/0101-symmetric-tree/) | Easy |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/rohithkrishna070/DSA-LeetCode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/rohithkrishna070/DSA-LeetCode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/rohithkrishna070/DSA-LeetCode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 <!---LeetCode Topics End-->
